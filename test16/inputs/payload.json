@@ -1,0 +1,10 @@
+{
+    "customer": [
+        {
+            "firstName": "Jack",
+            "middleName": null,
+            "lastName": "Dawson",
+            "gender": "male"
+        }
+    ]    
+}
